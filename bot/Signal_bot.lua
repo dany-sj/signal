@@ -280,22 +280,19 @@ function create_config( )
 An advanced administration bot based on TG-CLI written in Lua
 
 🔰 Github 🔰
-https://github.com/SIGNALTEAM/SignalTG.git
+https://github.com/dany-sj/signal
 
 Admins:
-🔥 @Ww_Developer_wW [Founder & Developer] 🔥
 
-🔥 @Mr_Hidden [Sudo & Manager] 🔥
+🔥Dany-sj (@Luxe_boy) [Sudo] 🔥
 
-🔥 @SigNal_Founder [Sudo] 🔥
-
-🔥 @Im_Best_Sudo [Sudo] 🔥
+🔥Hosein (@Hosein_kings) [Sudo] 🔥
 
 Special thanks to
 SEEDTEAM
 
 Our channels
-@Signal_CH
+@kings_team_h_d
 ]],
     help_text_realm = [[
 Realm Commands:
